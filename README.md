@@ -7,5 +7,5 @@ playing around wih git.
 |2|two|
 
 # TODO
- -[  ] Build something cool
- -[  ] Having a great creation, idea
+ - [  ] Build something cool
+ - [  ] Having a great creation, idea
